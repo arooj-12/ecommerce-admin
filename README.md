@@ -31,7 +31,7 @@ Key Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/Korabi123/ecommerce-admin.git
+git clone https://github.com/arooj-12/ecommerce-admin.git
 ```
 
 ### Install packages
